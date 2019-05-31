@@ -47,6 +47,9 @@
       "template_folder": "_themes.pdf"
     }
   },
+  "feature_flags": {
+    "enable_publish_pipeline": true
+  },
   "need_generate_pdf": false,
   "need_generate_intellisense": false
 }
