@@ -48,8 +48,11 @@
     }
   },
   "feature_flags": {
-    "enable_publish_pipeline": true
+    "use_v2_github_user_cache": true
   },
   "need_generate_pdf": false,
-  "need_generate_intellisense": false
+  "need_generate_intellisense": false,
+  "docs_build_engine": {
+    "name": "docfx_v3"
+  }
 }
