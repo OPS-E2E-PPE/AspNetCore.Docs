@@ -104,7 +104,8 @@
     },
     "template": [],
     "dest": "_site",
-    "markdownEngineName": "markdig",
+    "markdownEngineName": "markdig",    
+    "isCanonicalUrlWithMoniker": true,
     "groups": {
       "group1": {
         "dest": "group1-dest",
