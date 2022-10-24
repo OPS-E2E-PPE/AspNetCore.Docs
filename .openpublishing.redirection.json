@@ -1,31 +1,6 @@
 {
     "redirections": [
         {
-            "source_path": "aspnetcore/fundamentals/host/index.md",
-            "redirect_url": "/aspnet-core-conceptual-ppe/fundamentals/index#host",
-            "redirect_document_id": false
-        },
-        {
-            "source_path": "aspnetcore/tutorials/first-mvc-app-xplat/index.md",
-            "redirect_url": "/aspnet-core-conceptual-ppe/tutorials/first-mvc-app",
-            "redirect_document_id": false
-        },
-        {
-            "source_path": "aspnetcore/tutorials/first-mvc-app-xplat/start-mvc.md",
-            "redirect_url": "/aspnet-core-conceptual-ppe/tutorials/first-mvc-app",
-            "redirect_document_id": false
-        },
-        {
-            "source_path": "aspnetcore/tutorials/first-mvc-app-xplat/adding-controller.md",
-            "redirect_url": "/aspnet-core-conceptual-ppe/tutorials/first-mvc-app/adding-controller",
-            "redirect_document_id": false
-        },
-        {
-            "source_path": "aspnetcore/tutorials/first-mvc-app-xplat/adding-view.md",
-            "redirect_url": "/aspnet-core-conceptual-ppe/tutorials/first-mvc-app/adding-view",
-            "redirect_document_id": false
-        },
-        {
             "source_path": "aspnetcore/tutorials/first-mvc-app-xplat/adding-model.md",
             "redirect_url": "/aspnet-core-conceptual-ppe/tutorials/first-mvc-app/adding-model",
             "redirect_document_id": false
