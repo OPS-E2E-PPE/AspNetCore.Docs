@@ -24,6 +24,11 @@
             "source_path": "aspnetcore/tutorials/first-mvc-app-xplat/adding-view.md",
             "redirect_url": "/aspnet-core-conceptual-ppe/tutorials/first-mvc-app/adding-view",
             "redirect_document_id": false
+        },
+        {
+            "source_path": "aspnetcore/tutorials/first-mvc-app-xplat/zsc-test.md",
+            "redirect_url": "/aspnet-core-conceptual-ppe/tutorials/first-mvc-app/adding-view",
+            "redirect_document_id": false
         }
     ]
 }
